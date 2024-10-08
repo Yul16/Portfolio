@@ -328,6 +328,10 @@
     align-items: center;
   }
   
+  .modal p {
+    color: #293c63;
+  }
+
   .modal-content {
     background-color: #fff;
     padding: 2rem;
